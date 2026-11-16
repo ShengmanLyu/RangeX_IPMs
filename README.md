@@ -5,6 +5,7 @@ This repository contains cleaned and reproducible code accompanying the paper:
 
 > **Competition and dispersal limitation explain lags in plant elevational range shifts**  
 > Evelin Iseli1, Shengman Lyu, Anna Hargreaves, Anne Bjorkman, Vincent Ralph Clark, Paul Kardol, Vigdis Vandvik, Shengwei Zong, Jake Alexander
+
 > Submitted to _Science_, 2026
 
 Code & repository by: Evelin Iseli, Shengman Lyu
